@@ -1,0 +1,21 @@
+.duz-cerceve {
+    border: 10px outset rgb(0, 174, 255);
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+h3 {
+    --x: 50%;
+    --y: 50%;
+    position: relative;
+    appearance: none;
+    padding: 1em 2em;
+    cursor: pointer;
+    outline: none;
+    border-radius: 100px;
+    border: 10px outset rgb(0, 174, 255);
+    text-align: center;
+}
